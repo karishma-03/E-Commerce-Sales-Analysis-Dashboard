@@ -19,5 +19,6 @@ This project analyzes e-commerce sales data to gain insights into sales performa
 - Map chart for sales by state
 
 ## Preview
-![image](https://github.com/user-attachments/assets/428db111-69b9-412a-a5f2-baf380229b1f)
+![image](https://github.com/user-attachments/assets/d956c62b-b31a-4c29-be6c-e1b12c218f72)
+
 
